@@ -39,3 +39,4 @@ C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion
 C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 2\Guia 2\obj\Debug\net5.0-windows\ref\Guia 2.dll
 C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 2\Guia 2\obj\Debug\net5.0-windows\Guia 2.pdb
 C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 2\Guia 2\obj\Debug\net5.0-windows\Guia 2.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Josue Martinez\UNAH - III PAC\Lenguajes de programacion III\Guia 2\Guia 2\obj\Debug\net5.0-windows\Guia_2.Form5.resources
